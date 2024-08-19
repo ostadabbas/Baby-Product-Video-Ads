@@ -32,11 +32,11 @@ We have also split the dataset into training and testing datasets for future res
 
 We built a multimodality feature-infused model for predicting attention interruption. The model is visualized below:
 
-<img src="figs/model.png" alt="Model Architecture" width="128"/>
+<img src="figs/model.png" alt="Model Architecture" width="32"/>
 
 Our model outperformed benchmark models in predicting attention interruption, as shown in the table below:
 
-<img src="figs/result.png" alt="Results Comparison" width="128"/>
+<img src="figs/result.png" alt="Results Comparison" width="32"/>
 
 ## Feature Extraction and Analysis
 
