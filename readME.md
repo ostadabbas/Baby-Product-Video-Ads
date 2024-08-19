@@ -2,7 +2,7 @@
 
 This repository contains the code and data for the paper titled "Multimodal Drivers of Attention Interruption to Baby Product Video Ads," published at ICPR 2024.
 
-![Overview](figs/framework.png)
+<img src="figs/framework.png" alt="Overview" width="256"/>
 
 ## Table of Contents
 
@@ -17,6 +17,7 @@ This repository contains the code and data for the paper titled "Multimodal Driv
 ## Dataset
 
 The dataset used in this study consists of video ads for baby products, annotated with viewers' points of interest during their viewing of the ads. Figure below is an illustration, where the red dots indicate the location of points of interest.
+
 <img src="figs/attention.png" alt="Points of Interest" width="256"/>
 
 We extracted visual, audio, and linguistic features along with an attention interruption measure. The feature extraction code can be found in the `feature extraction` folder.
@@ -31,11 +32,11 @@ We have also split the dataset into training and testing datasets for future res
 
 We built a multimodality feature-infused model for predicting attention interruption. The model is visualized below:
 
-![Model Architecture](figs/model.png)
+<img src="figs/model.png" alt="Model Architecture" width="256"/>
 
 Our model outperformed benchmark models in predicting attention interruption, as shown in the table below:
 
-![Results Comparison](figs/result.png)
+<img src="figs/result.png" alt="Results Comparison" width="256"/>
 
 ## Feature Extraction and Analysis
 
