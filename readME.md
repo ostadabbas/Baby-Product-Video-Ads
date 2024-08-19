@@ -16,8 +16,8 @@ This repository contains the code and data for the paper titled "Multimodal Driv
 
 ## Dataset
 
-The dataset used in this study consists of video ads for baby products, annotated with viewers' points of interest during their viewing of the ads.
-![Points of Interest](figs/attention.png)
+The dataset used in this study consists of video ads for baby products, annotated with viewers' points of interest during their viewing of the ads. Figure below is an illustration, where the red dots indicate the location of points of interest.
+<img src="figs/attention.png" alt="Points of Interest" width="500"/>
 
 We extracted visual, audio, and linguistic features along with an attention interruption measure. The feature extraction code can be found in the `feature extraction` folder.
 
