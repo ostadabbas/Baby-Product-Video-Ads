@@ -43,8 +43,24 @@ We employed a linear regression model to analyze the relationship between multim
 
 ## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ostadabbas/Baby-Product-Video-Ads
-   cd attention-interruption-baby-ads
-   ```
+1. Clone the repository
+2. Run each notebook for feature extraction, PCA, or model training and testing.
+3. Run the R code for feature importance analysis
+
+## Contact
+
+For any questions or inquiries, please contact the authors at we.xie@northeastern.edu.
+
+## Citations
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@inproceedings{wen2024multimodal,
+  title={Multimodal Drivers of Attention Interruption to Baby Product Video Ads},
+  author={Xie, Wen and Luan, Lingfei and Zhu, Yanjun and Bart, Yakov and Ostadabbas, Sarah},
+  booktitle={International Conference on Pattern Recognition (ICPR)},
+  month={12},
+  year={2024}
+}
+```
