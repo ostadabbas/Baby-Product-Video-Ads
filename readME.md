@@ -45,8 +45,9 @@ We employed a linear regression model to analyze the relationship between multim
 ## How to Run
 
 1. Clone the repository
-2. Run each notebook for feature extraction, PCA, or model training and testing.
-3. Run the R code for feature importance analysis
+2. Run notebooks in `feature extraction` folder to extract visual features at shot level and merge them to video-level features
+3. Run the model training and testing code in the `model` folder to replicate the results
+4. Run notebook and R code in the `feature importance` folder for PCA feature selection and feature importance analysis
 
 ## Contact
 
